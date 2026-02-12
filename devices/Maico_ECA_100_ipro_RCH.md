@@ -1,5 +1,5 @@
 ---
-date_added: 2020-04-25
+date_added: 2026-02-12
 model: ECA 100 ipro RCH 
 vendor: Maico 
 title: Maico ECA 100 ipro RCH
