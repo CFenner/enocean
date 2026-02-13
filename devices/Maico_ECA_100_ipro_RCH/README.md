@@ -12,3 +12,5 @@ EEP: ['D2-20-00']
 compatible: 
 EAN: 4012799842118
 ---
+
+![](menu.png)
